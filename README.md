@@ -47,5 +47,3 @@ Otonom Hazine Avcısı, öğrencilerin nesneye yönelik programlama ve veri yap�
 2. Programı çalıştırarak “Yeni Harita Oluştur” butonuna tıklayın.
 3. “Başlat” butonuna tıklayarak oyunu başlatın ve karakterin hareketini gözlemleyin.
 
-## Lisans:
-Bu proje, **MIT Lisansı** ile lisanslanmıştır. Detaylar için [Lisans Dosyasına](LICENSE) bakınız.
